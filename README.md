@@ -26,6 +26,9 @@
     </li>
     <li>
       <a href="#instructions-to-use">Instructions to Use</a>
+      <ul>
+        <li><a href="#video-demo">Video Demo</a></li>
+      </ul>
     </li>
     <li>
       <a href="#built-with">Built With</a>
@@ -69,6 +72,10 @@ This is a submission for [StackUp Bounty - Level Up Your Rock Paper Scissors Gam
 - Approve the transaction.
 
 - Then game result will be shown afterward. Click 'Start Game' button to play again.
+
+### Video Demo  
+
+https://github.com/user-attachments/assets/11bd988a-1c45-4476-ad3e-bd5bcaf21faa
 
 ## Built With
 
