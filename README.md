@@ -9,7 +9,8 @@
   <p align="center">
     A rock paper scissors game powered by Aptos.
     <br />
-    <a href="https://rock-paper-scissors-aptos-stackup-bounty.vercel.app/"><strong>View Demo</strong></a> |
+    <a href="https://rock-paper-scissors-aptos-stackup-bounty.vercel.app/"><strong>Visit Website</strong></a> | 
+    <a href="#video-demo">Video Demo</a> | 
     <a href="https://explorer.aptoslabs.com/account/0xfaa259effc96ae64494fa4ed9184202034f23ccb772882432a86f2060f2da768/modules/code/RockPaperScissors/start_game?network=testnet"><strong>View Contract</strong></a>
     <br />
   </p>
